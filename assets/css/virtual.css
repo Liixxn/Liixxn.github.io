@@ -447,10 +447,13 @@ a:hover, a:active {
 
 .progress-wrapper .caption {
     font-weight: 500;
+    font-size: 18px;
+    color: #b36afc;
 }
 
 .progress {
     margin-top: 5px;
+    margin-bottom: 20px;
     height: 1.25rem;
     border: 2px solid #fff;
     background-color: #fff;

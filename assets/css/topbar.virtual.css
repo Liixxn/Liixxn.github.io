@@ -69,7 +69,7 @@ body {
   overflow: hidden;
 }
 /* Image of page */
-.page-home {  
+.page-home {
   padding: 25px 0;
   width: 100%;
   height: 700px;
@@ -158,6 +158,13 @@ body {
 #image-profile {
   box-shadow: 5px 5px 0 0 #9b40f1;
 }
+
+
+
+.wow.fadeInUp {
+  text-align: center;
+}
+
 
 .timeline {
   position: relative;
